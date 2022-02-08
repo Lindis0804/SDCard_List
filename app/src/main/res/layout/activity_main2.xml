@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".MainActivity2"
-    android:background="#fa8072">
+    android:background="#ffffff">
 
     <ScrollView
         android:layout_width="match_parent"
@@ -21,6 +21,9 @@
         <TextView
             android:id="@+id/act2_file_content"
             android:layout_width="match_parent"
-            android:layout_height="match_parent"/>
+            android:layout_height="match_parent"
+            android:textSize="10sp"
+            android:textStyle="bold"
+            android:textColor="@color/black"/>
     </ScrollView>
 </androidx.constraintlayout.widget.ConstraintLayout>

@@ -32,6 +32,7 @@ public class FoldertAdapter extends RecyclerView.Adapter<FoldertAdapter.ItemView
     public void onBindViewHolder(@NonNull ItemViewHolder holder, int position) {
              Folder folder = folders.get(position);
              holder.textView.setText(folder.getName());
+             holder.imageView.setClipToOutline(true);
     }
 
     @Override

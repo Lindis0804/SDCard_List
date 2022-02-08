@@ -3,8 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/use/Desktop/SDCard_List/app/src/main/res/drawable/cusstom_list_item.xml" value="0.3651041666666667" />
+        <entry key="..\:/Users/use/Desktop/SDCard_List/app/src/main/res/drawable/custom_avatar.xml" value="0.3651041666666667" />
         <entry key="..\:/Users/use/Desktop/SDCard_List/app/src/main/res/layout/activity_main.xml" value="0.2318840579710145" />
         <entry key="..\:/Users/use/Desktop/SDCard_List/app/src/main/res/layout/activity_main2.xml" value="0.13580246913580246" />
+        <entry key="..\:/Users/use/Desktop/SDCard_List/app/src/main/res/layout/layout_folder_item.xml" value="0.23645833333333333" />
         <entry key="..\:/Users/use/Pictures/SDCard_List/app/src/main/res/layout/activity_main.xml" value="0.23645833333333333" />
         <entry key="..\:/Users/use/Pictures/SDCard_List/app/src/main/res/layout/layout_folder_item.xml" value="0.23645833333333333" />
       </map>
